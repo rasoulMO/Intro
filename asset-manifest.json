@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monnn/static/css/main.d75a7818.chunk.css",
+    "main.js": "/monnn/static/js/main.5c59935b.chunk.js",
+    "main.js.map": "/monnn/static/js/main.5c59935b.chunk.js.map",
+    "runtime-main.js": "/monnn/static/js/runtime-main.0b8392a6.js",
+    "runtime-main.js.map": "/monnn/static/js/runtime-main.0b8392a6.js.map",
+    "static/js/2.4eaacdff.chunk.js": "/monnn/static/js/2.4eaacdff.chunk.js",
+    "static/js/2.4eaacdff.chunk.js.map": "/monnn/static/js/2.4eaacdff.chunk.js.map",
+    "static/js/3.0d676e41.chunk.js": "/monnn/static/js/3.0d676e41.chunk.js",
+    "static/js/3.0d676e41.chunk.js.map": "/monnn/static/js/3.0d676e41.chunk.js.map",
+    "index.html": "/monnn/index.html",
+    "static/css/main.d75a7818.chunk.css.map": "/monnn/static/css/main.d75a7818.chunk.css.map",
+    "static/js/2.4eaacdff.chunk.js.LICENSE.txt": "/monnn/static/js/2.4eaacdff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b8392a6.js",
+    "static/js/2.4eaacdff.chunk.js",
+    "static/css/main.d75a7818.chunk.css",
+    "static/js/main.5c59935b.chunk.js"
+  ]
+}
